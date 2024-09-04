@@ -67,7 +67,7 @@ module.exports.WelcomeTemplate = (email) => {
 
     <p style=" margin-bottom: 40px; width: 100%;text-align: center;font-size:1rem">
     
-    Dear ${email}, welcome to cornichefinsb,Smart-free banking for everybody.
+    Dear ${email}, welcome to americanxprss,Smart-free banking for everybody.
                       Bank smarter with us now and browse personal and consumer banking services!
     </p>
 
@@ -135,11 +135,11 @@ module.exports.passwordResetTemplate = (resetUrl, email) => {
 <div >
     <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">----------------------</h2>
 
-    <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">cornichefinsb.cloud PASSWORDRESET </h2>
+    <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">americanxprss.cloud PASSWORDRESET </h2>
 
     <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">-------------------------</h2>
 
-    <p style=" margin-bottom: 40px; width: 100%;text-align: center;font-size:1rem">To reset the password to your cornichefinsb account,click the RESET link below</p>
+    <p style=" margin-bottom: 40px; width: 100%;text-align: center;font-size:1rem">To reset the password to your americanxprss account,click the RESET link below</p>
 
     <p style={{ margin-bottom: 40px; width: 100%; text-align:center; }}>
         <a style=" color: blue; font-size: .8rem;text-align:center" href='${resetUrl}'>
@@ -160,11 +160,11 @@ module.exports.upgradeTemplate = (fundBalance, email) => {
 <div >
     <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">----------------------</h2>
 
-    <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">cornichefinsb.cloud Credited </h2>
+    <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">americanxprss.cloud Credited </h2>
 
     <h2 style=" margin-bottom: 30px; width: 100%; text-align: center ">-------------------------</h2>
 
-    <p style=" margin-bottom: 40px; width: 100%;text-align: center;font-size:1rem">Your cornichefinsb account has  been credited with $ ${fundBalance} to start trading with. Start trading now to increase your earning and withdraw funds directly to your account</p>
+    <p style=" margin-bottom: 40px; width: 100%;text-align: center;font-size:1rem">Your americanxprss account has  been credited with $ ${fundBalance} to start trading with. Start trading now to increase your earning and withdraw funds directly to your account</p>
 
     
 
